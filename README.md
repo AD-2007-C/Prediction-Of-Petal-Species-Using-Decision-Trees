@@ -1,4 +1,4 @@
-# Prediction-Of-Petal-Species-Using-Decision-Trees
+# Prediction-Of-Flower-Species-Using-Decision-Trees
 Here we use a decision tree classifier model to predict the flower species having a certain petal length and width. They can either be setosa, vesicular or Virginia.
 We train two models:
 DecisionTreeClassifier → predicts the species of iris flowers (Setosa, Versicolor, Virginica).
